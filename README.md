@@ -1,4 +1,8 @@
-## ZJU-SE课程资料整理
+# ZJU-SE课程资料整理
+
+![pic1](https://img.shields.io/github/stars/Zhang-Each/CourseNoteOfZJUSE?style=for-the-badge)
+
+![pic2](https://img.shields.io/github/forks/Zhang-Each/CourseNoteOfZJUSE?style=for-the-badge)
 
 - 这是我整理的一些软件工程专业大二、大三的课程资源整理
   - 在这个仓库里包含如下内容：
