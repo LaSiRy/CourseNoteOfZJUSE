@@ -11,7 +11,7 @@
     - String类的源码阅读分析+自己写一个矩阵类和向量类 
     - 网络爬虫+简易搜索引擎 
     - 大作业：Swing+Socket编程+多线程+JDBC做一个简单的小东西
-  - 可以参考https://github.com/Zhang-Each/Java-Application-Design-Homework 但是我写的比较水，请不要抄垃圾代码
+  - 可以参考https://github.com/Zhang-Each/Collection-of-schoolwork-code但是我写的比较水，请不要抄垃圾代码
   - 除了第一个以外每个作业代码量在500左右，大作业可能多一点，实验报告好好写，合理怀疑老师作业打分都看实验报告写的认不认真，另外lwm班对DDL卡的不是很死，几个作业可能只要期末考试结束之后的一天以内交齐就可以
 - 期末考试
   - 和平时作业的理论题差不多，有判断选择填空和程序填空，以及函数题、编程题 
