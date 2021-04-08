@@ -1,7 +1,9 @@
 # ZJU-SE课程资料整理
 
 - 该仓库所有资料**仅供参考**，所有内容仅代表个人拙劣的学业水平，以上全部资料**严禁抄袭或用于其他不当用途(如转卖给文印店老板)**，后果自负
+  
   - ### 如其中有资料涉及侵权内容，请及时联系告知并撤下
+  
 - 这是我整理的一些计算机学院和软件工程专业的课程资源整理，这个仓库包含如下内容：
   - 课程整理笔记
   - 部分课程的历年卷/回忆卷
@@ -11,9 +13,19 @@
   - 部分适合找往届参考的作业，比如：
     - 软三连的各种文档（建议多参考）
     - OS/计网实验报告
+  
 - 后续会继续更新上过的新课程的资料，也欢迎大家一起在98，GitHub等地方分享自己的各类资源！
   
   - 喜欢的话欢迎点个⭐ 
+  
+- 给大家推荐一些我了解到的类似仓库
+
+  - https://github.com/yangyueren/course_materials_of_cs
+  - https://github.com/YingChengJun/CourseMaterialOfSE
+  - https://github.com/jiangshibiao/Course-Review
+  - https://github.com/haochengxia/ZJU-CS-3_1
+  - https://github.com/PumpkinDemo/ZJU-courses
+  - https://github.com/LBruyne/ZJU-SE-CourseMaterial
 
 ### 更新记录
 
