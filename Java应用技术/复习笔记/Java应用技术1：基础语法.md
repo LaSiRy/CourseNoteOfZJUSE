@@ -318,7 +318,7 @@ public class main {
   - 数组的大小需要在new的时候指定，并且二维数组**一定要有行的数目** 
 
 ```Java
-int a[3][2] = {{1, 2}, {2, 3}, {3, 4}};
+int a[3][2] = ;
 int a[][] = new int[3][];
 int[][] a = new int[][3];
 int[][] a = new int[][];
